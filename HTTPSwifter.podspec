@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name                  = "Swifter"
+  s.name                  = "HTTPSwifter"
   s.version               = "1.4.7"
   s.summary               = "Tiny http server engine written in Swift programming language."
   s.homepage              = "https://github.com/glock45/swifter"
